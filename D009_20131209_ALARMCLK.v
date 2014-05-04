@@ -1,6 +1,5 @@
 module D009_20131209_ALARMCLK(clk,rst,counterOut,Borrow);
-
-//Verilog file, please check same references on web
+//for H:MM:SS
 parameter DownFrom = 3;
 parameter Bitwidth = 4;
 

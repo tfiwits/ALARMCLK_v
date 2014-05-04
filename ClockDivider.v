@@ -1,5 +1,5 @@
 module ClockDivider(clk,rst,Pulse,Clkout,counterOut);
-
+//clk
 parameter Divider =6;
 parameter Bitwidth = 4;
 //parameter DividerP = Divider+1;
